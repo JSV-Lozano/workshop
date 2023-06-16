@@ -6,13 +6,6 @@
 html {
   scroll-behavior: smooth;
 }
-ul {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
-}
 .menu_Container ul li {
   margin-right: 32px;
 }
@@ -77,14 +70,11 @@ a {
     width: 482px;
     height: 64px;
   }
-  .cards_container {
-    width: 70%;
-    height: 720px;
-  }
   .exclusive-Container p {
     width: 433px;
     height: 64px;
   }
+
 }
 @media screen and (max-width: 576px) {
   .accordion-item {
